@@ -24,6 +24,6 @@ void loop()
     digitalWrite(ledred, LOW);
     //Serial.println("Your Door is Open");
   }
-  delay(100);
+  //delay(100);
 }
 
